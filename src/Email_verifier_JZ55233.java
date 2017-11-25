@@ -24,7 +24,7 @@ public class Email_verifier_JZ55233 {
                            (kropkapozycja == malpapozycja + 1) || (kropazprawej != -1))
                    {
 
-                                System.out.println("bad address, try again");}
+                       System.out.println("bad address, try again");}
 
                     else{
                        System.out.println("good address");
